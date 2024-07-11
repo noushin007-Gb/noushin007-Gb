@@ -1,4 +1,6 @@
-[![MasterHead](https://i.gifer.com/3rNn.gif)]
+![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fo23xwdlhpkc2j51h6b8s.png)
+
+
 <h1 align="center">Hi 👋, I'm Noushin Nurjahan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
